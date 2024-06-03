@@ -1,4 +1,4 @@
-# Real-time colour detector of the detected frame from webcam ;) 
+# Real-time colour detector of the detected frame from webcam 
 ## What does the project do?
 Every image is represented by 3 colors that are Red, Green and Blue. In this project you will find the most prominent colour that is captured by the webcam using Python.
 
